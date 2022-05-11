@@ -72,11 +72,11 @@ myst_enable_extensions = [
 # a list of builtin themes.
 #
 html_theme = "sphinx_book_theme"
-html_logo = "_static/logo-wide.svg"
+html_logo = "_static/logo.png"
 html_title = "Sphinx Book Theme"
 html_copy_source = True
 html_sourcelink_suffix = ""
-html_favicon = "_static/logo-square.svg"
+html_favicon = "_static/logo.png"
 html_last_updated_fmt = ""
 
 html_sidebars = {
@@ -120,8 +120,8 @@ html_theme_options = {
     "logo_only": True,
     "show_toc_level": 2,
     "announcement": (
-        "⚠️The latest release refactored our HTML, "
-        "so double-check your custom CSS rules!⚠️"
+        "⚠️This document is still underdevelopment, "
+        "incase of any suggestions or improvements please contact the authors!⚠️"
     ),
     # For testing
     # "use_fullscreen_button": False,
