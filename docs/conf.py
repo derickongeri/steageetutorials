@@ -3,9 +3,9 @@ import os
 from pathlib import Path
 from urllib import request
 
-project = "Sphinx Book Theme"
-copyright = "2020"
-author = "the Executable Book Project"
+project = "STEA Earth Engine Tutorials"
+copyright = "2022"
+author = "Derick Ongeri, Rejoice Mcywa"
 # language = "fr"  # For testing language translations
 
 master_doc = "index"
