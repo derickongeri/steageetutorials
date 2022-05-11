@@ -1,5 +1,5 @@
 ---
-title: The Sphinx Book Theme
+title: STEA Google Earth Engine Tutorials
 ---
 
 ::::{grid}
@@ -10,16 +10,17 @@ title: The Sphinx Book Theme
 :::{grid-item}
 :columns: 4
 
-```{image} ./_static/logo-square.svg
+```{image} ./_static/logo.png
 :width: 150px
 ```
+
 :::
 
 :::{grid-item}
 :columns: 8
 :class: sd-fs-3
 
-A Sphinx theme with a clean design, support for interactive content, and a modern book-like look and feel.
+A Guided Tutorial on Google Earth Engine by the Space Technology for Earth Applications Project Group
 :::
 
 ::::
