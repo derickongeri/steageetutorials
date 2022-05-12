@@ -34,9 +34,9 @@ A Guided Tutorial on Google Earth Engine by the Space Technology for Earth Appli
 
 Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform. The purpose of Earth Engine is to:
 
-    - Provide an interactive platform for geospatial algorithm development at scale
-    - Enable high-impact, data-driven science
-    - Make substantive progress on global challenges that involve large geospatial datasets
+- Provide an interactive platform for geospatial algorithm development at scale
+- Enable high-impact, data-driven science
+- Make substantive progress on global challenges that involve large geospatial datasets
 
 # Topics Covered
 
