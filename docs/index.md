@@ -27,7 +27,7 @@ A Guided Tutorial on Google Earth Engine by the Space Technology for Earth Appli
 
 <div style="border: 1px solid; margin-bottom: 2em; box-shadow: 2px 3px #888888; overflow: hidden; max-width: 100%; height: auto;">
        <video style="width: 100%; height: 100%;" controls>
-           <source src="https://www.youtube.com/watch?v=OJVSHjKIMOs" type="video/mp4">
+           <source src="https://res.cloudinary.com/dv3id0zrx/video/upload/v1652287891/geeEdit_knsc8b.mp4" type="video/mp4">
            Your browser does not support the video tag.
        </video>
 </div>
@@ -43,7 +43,7 @@ Google Earth Engine is a geospatial processing service. With Earth Engine, you c
 This tutorial will cover beginner to advance topics. Feel free to skip to your desired topics if you are an advanced user.
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 :caption: Topic Areas
 
 tutorials/get-started
