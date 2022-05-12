@@ -1,5 +1,4 @@
 # Cloud Masking
-## 
 
 # Image Enhancement
 ## Smoothing

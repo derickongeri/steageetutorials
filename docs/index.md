@@ -54,8 +54,9 @@ introduction/get-started
 Module-1/Hello-world
 Module-1/image
 Module-1/imagecollections
+````
 
-```{toctree}
+````{toctree}
 :maxdepth: 2
 :caption: Module 2 Intermediate Examples
 
