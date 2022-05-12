@@ -1,8 +1,8 @@
+# Working with Images
+
 ## Hallo Image
 
 ## Play with Image Bands
-
-# Working with Images
 
 ## Apply a Computation to an Image
 
