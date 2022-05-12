@@ -53,12 +53,6 @@ This tutorial will cover beginner to advance topics. Feel free to skip to your d
 introduction/get-started
 Module-1/imagecollections
 Module-1/image
-tutorials/get-started
-customize/index
-content-blocks
-notebooks
-launch
-contributing/index
 ```
 
 <!-- # Reference pages

@@ -2,7 +2,6 @@
 
 This page shows of some special-case styling for various Sphinx extensions.
 
-
 ## `sphinxcontrib-bibtex` - References and bibliographies
 
 [`sphinxcontrib-bibtex`](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/) provides support for citations and bibliographies.
@@ -18,6 +17,7 @@ Here's are a few citations:
 And here's a bibliography:
 
 ```{bibliography}
+
 ```
 
 :::{seealso}
@@ -86,7 +86,8 @@ This toggle is in the margin!
 
 % For some reason sphinx-tabs doesn't work properly with myst markdown
 % so using rST here.
-````{eval-rst}
+
+```{eval-rst}
 .. tabs::
 
    .. tab:: Apples
@@ -100,11 +101,12 @@ This toggle is in the margin!
    .. tab:: Oranges
 
       Oranges are orange.
-````
+```
 
 ## `sphinxcontrib.youtube` for videos
 
 [`sphinxcontrib.youtube`](https://github.com/sphinx-contrib/youtube) makes it possible to easily embed videos in your documentation.
 
 ```{youtube} 2Z7wDaYt53Y
+
 ```

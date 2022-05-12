@@ -1,10 +1,13 @@
 ## Prerequisites
+
 ### Sign Up for Earth Engine Account
 
 ## Earth Engine JavaScript Playground
+
 The Code Editor is an interactive environment for developing Earth Engine applications (Figure 1). The center panel provides a JavaScript code editor. Above the editor are buttons to save the current script, run it, and clear the map. The Get Link button generates a unique URL for the script in the address bar. The map in the bottom panel contains the layers added by the script. At the top is a search box for datasets and places. The left panel contains code examples, your saved scripts, a searchable API reference and an asset manager for private data. The right panel has an inspector for querying the map, an output console, and a manager for long-running tasks. The help button help in the upper right contains links to this Guide and other resources for getting help. Learn more from the Code Editor guide and the Get Help guide.
 
 ### Basic Javascript Syntax
+
 This is an example of javascript code snippet on markdown
 
 ```js
@@ -47,8 +50,7 @@ var my_hello_function = function (string) {
 };
 print(my_hello_function("world"));
 ```
+
 ### Add data to the Map
 
-
 ### Earth Engine data structures
-
