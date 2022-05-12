@@ -46,20 +46,21 @@ Google Earth Engine is a geospatial processing service. With Earth Engine, you c
 
 This tutorial will cover beginner to advance topics. Feel free to skip to your desired topics if you are an advanced user.
 
-```{toctree}
+````{toctree}
 :maxdepth: 2
-:caption: Module 1: Introduction
+:caption: Module 1 Introduction
 
 introduction/get-started
 Module-1/Hello-world
 Module-1/image
 Module-1/imagecollections
 
+```{toctree}
 :maxdepth: 2
 :caption: Module 2: Intermediate Examples
 
 Module-2/intermediate-examples
-```
+````
 
 <!-- # Reference pages
 
