@@ -57,7 +57,7 @@ Module-1/imagecollections
 
 ```{toctree}
 :maxdepth: 2
-:caption: Module 2: Intermediate Examples
+:caption: Module 2 Intermediate Examples
 
 Module-2/intermediate-examples
 ````
