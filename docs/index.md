@@ -48,12 +48,19 @@ This tutorial will cover beginner to advance topics. Feel free to skip to your d
 
 ```{toctree}
 :maxdepth: 2
-:caption: Introduction
+:caption: Module 1: Introduction
 
 introduction/get-started
 Module-1/Hello-world
 Module-1/image
 Module-1/imagecollections
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Module 2: Intermediate Examples
+
+Module-2/intermediate-examples
 ```
 
 <!-- # Reference pages
