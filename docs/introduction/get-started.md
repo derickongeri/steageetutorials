@@ -2,6 +2,10 @@
 
 ## Sign Up for Earth Engine Account
 
+.. sidebar:: Ch'ien / The Creative
+
+    .. image:: ./_static/code_editor.png
+
 To sign up for an earth engine account, visit the [`Google earth engine homepage`](https://earthengine.google.com) and click on the sign up link at the top-right conner of the page. The earth engine homepage also contains a tonn of information about earth engine and is a good place to get familiar with google earth engine platform, data catalog, terms of use, and case studies. The sign up link can also be found at the bottom of the page.
 
 :::{note}
