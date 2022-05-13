@@ -63,7 +63,7 @@ Module-1/imagecollections
 Module-2/cloud-masking
 Module-2/image-enhancement
 Module-2/calculations-on-image
-Module-2/calculetions-on-collection
+Module-2/calculations-on-collection
 ```
 
 ```{toctree}
