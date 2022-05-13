@@ -7,4 +7,3 @@
 ## Map a function over a Collection
 
 ## Isolate an Image from Image Collection
-
