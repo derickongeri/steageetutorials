@@ -4,8 +4,7 @@
 
 To sign up for an earth engine account, visit the [`Google earth engine homepage`](https://earthengine.google.com) and click on the sign up link at the top-right conner of the page. The earth engine homepage also contains a tonn of information about earth engine and is a good place to get familiar with google earth engine platform, data catalog, terms of use, and case studies. The sign up link can also be found at the bottom of the page.
 
-````{sidebar} **My sidebar title**
-```{figure} ../_static/code_editor.png
+```{figure} ../_static/signup.png
 ---
 width: 60%
 figclass: margin-caption
@@ -13,7 +12,6 @@ alt: My figure text
 name: myfig5
 ---
 ```
-````
 
 :::{note}
 Earth Engine is available for commercial use, and remains free for academic and research use. [the terms of use](https://earthengine.google.com/terms/)
