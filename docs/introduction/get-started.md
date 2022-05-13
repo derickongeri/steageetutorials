@@ -6,7 +6,7 @@ To sign up for an earth engine account, visit the [`Google earth engine homepage
 
 ```{figure} ../_static/signup.png
 ---
-width: 60%
+width: 100%
 figclass: margin-caption
 alt: My figure text
 name: myfig5
@@ -14,7 +14,7 @@ name: myfig5
 ```
 
 :::{note}
-Earth Engine is available for commercial use, and remains free for academic and research use. [the terms of use](https://earthengine.google.com/terms/)
+Earth Engine is available for commercial use, and is free for academic and research use. You can refer to [the terms of use](https://earthengine.google.com/terms/) for more information.
 :::
 
 ## Earth Engine JavaScript Playground
@@ -30,7 +30,6 @@ If you are signed in to your google account on your browser and type in the addr
 ```{figure} ../_static/code_editor.png
 ---
 width: 100%
-height: 100%
 figclass: margin-caption
 alt: My figure text
 name: myfig5
