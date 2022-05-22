@@ -73,6 +73,13 @@ Module-2/calculations-on-collection
 Module-3/classification
 ```
 
+```{toctree}
+:maxdepth: 2
+:caption: Module 4 Advanced Topics
+
+Module-4/Advancetopics
+```
+
 <!-- # Reference pages
 
 Reference pages demonstrate the visual look of this theme.
