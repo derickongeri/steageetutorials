@@ -17,13 +17,13 @@ name: myfig5
 Earth Engine is available for commercial use, and is free for academic and research use. You can refer to [the terms of use](https://earthengine.google.com/terms/) for more information.
 :::
 
-## Earth Engine JavaScript Playground
+## JavaScript Code Editor
+
+The Code Editor is an interactive environment for developing Earth Engine applications (Figure 1). Once you are signed up to use google earth engine, you can access the code editor by typing [code.earthengine.google.com](https://code.earthengine.google.com/) in the address bar on your browser.
 
 ```{tip}
 If you are signed in to your google account on your browser and type in the address the code editor will automatically open with your earth engine account signed in.
 ```
-
-The Code Editor is an interactive environment for developing Earth Engine applications (Figure 1). Once you are signed up to use google earth engine, you can access the code editor by typing [code.earthengine.google.com](https://code.earthengine.google.com/) in the address bar on your browser.
 
 ```{figure} ../_static/code_editor.png
 ---
