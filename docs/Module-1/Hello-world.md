@@ -3,6 +3,7 @@
 ## Basic JavaScript Syntax
 
 ### Hallo World
+hello rejoice
 
 ### Comments
 
