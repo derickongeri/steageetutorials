@@ -3,7 +3,16 @@
 ## Basic JavaScript Syntax
 
 ### Hallo World
+hello rejoice
+```js
+var image = ee.Algorithms.Landsat.simpleComposite({
+  collection: landsat.filterDate('2015-01-01', '2020-12-31'),
+  asFloat: true
+});
+Map.centerObject(table, 15);
+Map.setOptions('SATELLITE');
 
+```
 ### Comments
 
 ```js
